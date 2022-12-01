@@ -1,6 +1,6 @@
 # understanding_animation
 
-A new Flutter project.
+Creative interactive Signup screen using Animation and also understanding animation
 
 ## Getting Started
 
